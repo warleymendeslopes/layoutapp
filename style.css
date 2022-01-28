@@ -54,9 +54,12 @@
 }
 
 .login-group-cta {
+    position: absolute;
     width: 100%;
     display: flex;
     justify-content: space-around;
+    bottom: 0px;
+    left: 0;
 }
 .login-group-cta button{
     display: flex;
