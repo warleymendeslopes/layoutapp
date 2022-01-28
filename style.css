@@ -43,6 +43,15 @@ a{
     width: 165px;
     text-align: left;
 }
+.title-signup h1{
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    color: #29235C;
+    mix-blend-mode: normal;
+}
 .title-login h1{
     font-family: Work Sans;
     font-style: normal;
@@ -113,7 +122,7 @@ letter-spacing: -0.408px;
 .form-signup {
     height: 262px;
     position: relative;
-    bottom: -145px;
+    top: 13px;
     width: 100%;
 }
 form.form-signup input {
